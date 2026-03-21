@@ -4,3 +4,4 @@ Background: Municipalities and cities face significant challenges in managing an
 
 Objective: Develop an automated waste management system that uses a chain of responsibility pattern to ensure efficient waste collection and disposal. The system should handle different types of waste containers and trigger appropriate disposal actions based on the type and capacity of each container.
 
+<img width="1880" height="1558" alt="Blank diagram (8)" src="https://github.com/user-attachments/assets/de3e704d-7bde-403c-8f31-dc38f49d3014" />
